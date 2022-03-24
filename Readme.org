@@ -1,0 +1,35 @@
+#+TITLE: Readme
+#+AUTHOR: Daniel Aaron Salwerowicz
+#+STARTUP: nofold
+
+* Table of Contents :TOC:
+- [[#recursive-mj-fonts][Recursive MJ Fonts]]
+  - [[#installing-fonts][Installing Fonts]]
+  - [[#font-description][Font Description]]
+  - [[#font-example][Font example]]
+  - [[#versions-used][Versions Used]]
+
+* Recursive MJ Fonts
+This is a repo containing my private patch of [[https:recursive.design][Recursive font family]] by [[github:arrowtype][arrowtype]]. In addition to that the monospaced fonts contain a variant with patched [[github:ryanoasis/nerd-fonts][Nerd Fonts]].
+
+** Installing Fonts
+These fonts are simple =ttf= files so you can easilly install them on any modern operating system.
+
+** Font Description
+Font families are:
++ Recursive Mono MJ
++ Recursive Sans MJ
+Each family has following font weights, with Italic variants:
++ Light
++ Regular
++ Medium
++ Demi Bold
++ Bold
+
+** Font example
+#+CAPTION: Some text showing both sans and mono fonts
+[[./Img/Example.png]]
+
+** Versions Used
++ Recursive font version: 1.084
++ Nerd Fonts version: 2.1.0
