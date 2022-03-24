@@ -1,0 +1,83 @@
+Family Name: MonoMJ
+
+Fonts:
+  Light:
+    MONO: 1
+    CASL: 0.42
+    wght: 300
+    slnt: 0
+    CRSV: 1
+
+  Light Italic:
+    MONO: 1
+    CASL: 0.42
+    wght: 300
+    slnt: -13
+    CRSV: 1
+
+  Regular:
+    MONO: 1
+    CASL: 0.42
+    wght: 400
+    slnt: 0
+    CRSV: 1
+
+  Italic:
+    MONO: 1
+    CASL: 0.42
+    wght: 400
+    slnt: -13
+    CRSV: 1
+
+  Medium:
+    MONO: 1
+    CASL: 0.42
+    wght: 500
+    slnt: 0
+    CRSV: 1
+
+  Medium Italic:
+    MONO: 1
+    CASL: 0.42
+    wght: 500
+    slnt: -13
+    CRSV: 1
+
+  Demi Bold:
+    MONO: 1
+    CASL: 0.42
+    wght: 600
+    slnt: 0
+    CRSV: 1
+
+  Demi Bold Italic:
+    MONO: 1
+    CASL: 0.42
+    wght: 600
+    slnt: -13
+    CRSV: 1
+
+  Bold:
+    MONO: 1
+    CASL: 0.42
+    wght: 700
+    slnt: 0
+    CRSV: 1
+
+  Bold Italic:
+    MONO: 1
+    CASL: 0.42
+    wght: 700
+    slnt: -13
+    CRSV: 1
+
+Code Ligatures: True
+
+Features:
+- ss07
+- ss09
+- ss11
+- ss12
+- dlig
+- afrc
+- liga
