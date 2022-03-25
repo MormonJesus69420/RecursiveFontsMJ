@@ -7,6 +7,7 @@
   - [[#installing-fonts][Installing Fonts]]
   - [[#font-description][Font Description]]
   - [[#font-example][Font example]]
+  - [[#configs][Configs]]
   - [[#versions-used][Versions Used]]
 
 * Recursive MJ Fonts
@@ -29,6 +30,11 @@ Each family has following font weights, with Italic variants:
 ** Font example
 #+CAPTION: Some text showing both sans and mono fonts
 [[./Img/Example.png]]
+
+** Configs
+Inside the =Configs= folder you can find configuration files for both mono and sans fonts. These configuration files I used in [[github:arrowtype/recursive-code-config][recursive-code-config]] project to patch my own fonts. In addition to that I did some simple changes to their =instantiate-code-fonts.py= file to change things like default font names, and forcing casual Nerd Fonts Powerline Fonts.
+
+I have also used FontForge to adjust font metadata.
 
 ** Versions Used
 + Recursive font version: 1.084
