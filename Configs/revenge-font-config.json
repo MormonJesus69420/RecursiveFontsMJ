@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Recursive Sans MJ",
+    "previewText": "Recursive Sans MJ",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Bold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-DemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-DemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Sans/RecursiveSansMJ/RecursiveSansMJ-DemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/MormonJesus69420/RecursiveFontsMJ/raw/main/Mono/RecursiveMonoMJ-PATCHED/RecursiveMonoMJ-Regular.ttf?raw=1"
+    }
+}
